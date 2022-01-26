@@ -15,7 +15,7 @@ __Tools__
   - [astc_decomp](https://github.com/K0lb3/astc_decomp) - a library for astc decompression
   - [tex2img](https://github.com/K0lb3/tex2img) - a library for decompressing various texture formats
 
-- [protobuf_extractor](https://github.com/K0lb3/proto_extractor) - a tool to extract and reconstructure protobuf definitions
+- [protobuf_extractor](https://github.com/K0lb3/proto_extractor) - a tool to extract and reconstruct protobuf definitions
 
 __Game Data-Mines__
 
