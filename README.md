@@ -19,18 +19,5 @@ __Tools__
 
 __Game Data-Mines__
 
-- [TROUBLESHOOTER: Abandoned Children](https://github.com/K0lb3/TROUBLESHOOTER-mine) [mod-kit](https://github.com/K0lb3/TroubleTool)
-
-- Unity:
-  - [Shinobi Nightmare](https://gitlab.com/K0lb3/shinobi-nightmare)
-  - [Phantom of the Kill](https://gitlab.com/K0lb3/phantom-of-the-kill)
-  - The Alchemist Code [new](https://github.com/K0lb3/The-Alchemist-Code---asset-downloader-and-extractor) [old](https://gitlab.com/the-alchemist-codes)
-  - [Crystal Re;Union](https://gitlab.com/K0lb3/crystal-reunion)
-  - [War of the VIsions](https://gitlab.com/war-of-the-visions)
-
-  - [Langrisser Mobile](https://gitlab.com/langrisser) (outdated)
-
-  - [Evertale](https://github.com/K0lb3/Evertale---asset-downloader-and-extractor)
-  - [Disgaea RPG](https://github.com/K0lb3/Disgaea-RPG-Mine)
-  - [KonoSuba: Fantastic Days](https://github.com/K0lb3/KonoSuba--Fantastic-Days-asset-downloader)
-
+I moved all of my game datamine projects to [K0lb3's-Datamines](https://github.com/K0lb3s-Datamines).
+The only exception to that is [TROUBLESHOOTER: Abandoned Children](https://github.com/K0lb3/TROUBLESHOOTER-mine) [mod-kit](https://github.com/K0lb3/TroubleTool).
